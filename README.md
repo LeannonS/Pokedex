@@ -1,6 +1,4 @@
 # Pokedex
-
-## Visão Geral
 Este projeto consiste em uma aplicação da Pokédex que permite aos usuários pesquisar e visualizar informações sobre diferentes pokémons.
 
 ## Funcionalidades
